@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="405" height="602" viewBox="0 0 405 602">
-  <defs>
-    <linearGradient id="features-background-a" x1="16.903%" y1="15.051%" y2="100%">
-      <stop offset="0%" stop-color="#5591E3"/>
-      <stop offset="100%" stop-color="#39C8DD"/>
-    </linearGradient>
-  </defs>
-  <path fill="url(#features-background-a)" fill-rule="evenodd" d="M548.635543,273 C548.635543,273 56.5730433,454.25 157.69452,561.85451 C258.815996,669.45902 548.635543,874.695977 548.635543,874.695977 L548.635543,273 Z" transform="matrix(-1 0 0 1 548.636 -273)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="405" height="602" viewBox="0 0 405 602"><defs><linearGradient id="features-background-a" x1="16.903%" y1="15.051%" y2="100%"><stop offset="0%" stop-color="#5591E3"/><stop offset="100%" stop-color="#39C8DD"/></linearGradient></defs><path fill="url(#features-background-a)" fill-rule="evenodd" d="M548.635543,273 C548.635543,273 56.5730433,454.25 157.69452,561.85451 C258.815996,669.45902 548.635543,874.695977 548.635543,874.695977 L548.635543,273 Z" transform="matrix(-1 0 0 1 548.636 -273)"/></svg>

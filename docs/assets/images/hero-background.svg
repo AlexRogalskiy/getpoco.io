@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="746" height="660" viewBox="0 0 746 660">
-  <defs>
-    <linearGradient id="hero-background-a" x1="16.903%" y1="15.051%" y2="100%">
-      <stop offset="0%" stop-color="#5591E3"/>
-      <stop offset="100%" stop-color="#39C8DD"/>
-    </linearGradient>
-  </defs>
-  <path fill="url(#hero-background-a)" fill-rule="evenodd" d="M990.934439,0 C990.934439,0 605.84353,169.983273 712.752621,268.363636 C819.661712,366.744 1439.29808,660 1439.29808,660 L1439.29808,0 L990.934439,0 Z" transform="translate(-694)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="746" height="660" viewBox="0 0 746 660"><defs><linearGradient id="hero-background-a" x1="16.903%" y1="15.051%" y2="100%"><stop offset="0%" stop-color="#5591E3"/><stop offset="100%" stop-color="#39C8DD"/></linearGradient></defs><path fill="url(#hero-background-a)" fill-rule="evenodd" d="M990.934439,0 C990.934439,0 605.84353,169.983273 712.752621,268.363636 C819.661712,366.744 1439.29808,660 1439.29808,660 L1439.29808,0 L990.934439,0 Z" transform="translate(-694)"/></svg>
